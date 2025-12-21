@@ -17,7 +17,7 @@ Synaptik Core is currently in the early stages of development. We are not yet ac
 * **Feedback:** Insights from AI developers, safety researchers, and systems architects.
 
 If you are interested in collaborating, please contact us at
-[janayharris@synaptik-core.dev](mailto:hello@synaptik-core.dev).
+[hello@synaptik-core.dev](mailto:janayharris@synaptik-core.dev).
 
 ### Useful Resources
 
@@ -26,5 +26,5 @@ Official documentation and technical whitepapers are in development and will be 
 ### Contact
 
 For investment inquiries, pilot program participation, or research collaboration, please reach out to the founder, Janay Harris, at
-[janayharris@synaptik-core.dev](mailto:hello@synaptik-core.dev).
+[hello@synaptik-core.dev](mailto:janayharris@synaptik-core.dev).
 
