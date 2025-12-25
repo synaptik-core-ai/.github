@@ -4,7 +4,7 @@ Synaptik Core is a distributed cognitive substrate for intelligent systems. Our 
 
 ### What We Do
 
-Synaptik Core provides a shared substrate for AI. We address the foundational challenge of *cognitive plumbing*, allowing researchers and developers to focus on higher-level reasoning and innovation instead of recreating core infrastructure.
+Synaptik Core provides a substrate for AI. We address the foundational challenge of *cognitive plumbing*, allowing researchers and developers to focus on higher-level reasoning and innovation instead of recreating core infrastructure.
 
 Our technology converts the opaque internal operations of complex AI systems into analyzable state-space models, enabling deep instrumentation, observability, and recovery. Synaptik Core is designed to help systems maintain coherent internal state over time, adapt safely to change, and support auditing and governance as first-class concerns rather than afterthoughts.
 
