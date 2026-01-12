@@ -1,12 +1,23 @@
 ## Synaptik Core
 
-Synaptik Core is a distributed cognitive substrate for intelligent systems. Our mission is to provide a foundational layer for AI that standardizes properties like persistent state, governance, traceability, and recovery across machine learning workflows, large language models, and autonomous systems.
+Governed memory for intelligent systems.
 
-### What We Do
+Synaptik Core provides the foundational layer for AI systems that need to remember, reason, and stay accountable over time. It gives developers tools to manage persistent cognitive state, apply governance rules to AI behavior, and make complex decisions traceable and auditable.
 
-Synaptik Core provides a substrate for AI. We address the foundational challenge of *cognitive plumbing*, allowing researchers and developers to focus on higher-level reasoning and innovation instead of recreating core infrastructure.
+Built for large language models, machine learning workflows, and autonomous agents — Synaptik Core helps systems think long-term and act with integrity.
 
-Our technology converts the opaque internal operations of complex AI systems into analyzable state-space models, enabling deep instrumentation, observability, and recovery. Synaptik Core is designed to help systems maintain coherent internal state over time, adapt safely to change, and support auditing and governance as first-class concerns rather than afterthoughts.
+### What It Does
+
+Most AI systems forget everything between sessions. Synaptik Core changes that.
+
+We turn AI’s hidden internal processes into clear, structured memory that can be reviewed, governed, and debugged. Our system helps developers:
+
+- Maintain memory across prompts and tasks
+- Apply constraints before data affects reasoning
+- Trace how decisions were made over time
+- Build trust in long-running or safety-critical systems
+
+Instead of patching problems after the fact, Synaptik Core bakes in safety and accountability from the start.
 
 ### Contribution Guidelines
 
@@ -18,10 +29,6 @@ Synaptik Core is currently in the early stages of development. We are not yet ac
 
 If you are interested in collaborating, please contact us at
 [hello@synaptik-core.dev](mailto:janayharris@synaptik-core.dev).
-
-### Useful Resources
-
-Official documentation and technical whitepapers are in development and will be released in the near future. As the project matures, this repository will host core documentation, API specifications, and usage guides.
 
 ### Contact
 
