@@ -2,36 +2,37 @@
 
 Governed memory for intelligent systems.
 
-Synaptik Core provides the foundational layer for AI systems that need to remember, reason, and stay accountable over time. It gives developers tools to manage persistent cognitive state, apply governance rules to AI behavior, and make complex decisions traceable and auditable.
+Synaptik Core is a foundation for intelligent systems that need persistent memory, policy-bound behavior, and auditable decision-making. It helps developers manage long-lived cognitive state, apply governance rules before actions are taken, and trace how outputs were produced.
 
-Built for large language models, machine learning workflows, and autonomous agents — Synaptik Core helps systems think long-term and act with integrity.
+Built for language models, machine learning workflows, and autonomous agents, Synaptik Core supports systems that must operate reliably over time, especially in high-accountability environments.
 
 ### What It Does
 
-Most AI systems forget everything between sessions. Synaptik Core changes that.
+Most intelligent systems can generate outputs, but they often struggle to maintain reliable context over time or across environments. Synaptik Core addresses that gap by giving systems a governed memory layer that makes reasoning more durable, reviewable, and accountable.
 
-We turn AI’s hidden internal processes into clear, structured memory that can be reviewed, governed, and debugged. Our system helps developers:
+With Synaptik Core, organizations can:
 
-- Maintain memory across prompts and tasks
-- Apply constraints before data affects reasoning
-- Trace how decisions were made over time
-- Build trust in long-running or safety-critical systems
+- Preserve context across sessions, workflows, and platforms
+- Apply governance and policy controls to how information is used
+- Maintain auditable traces of decisions and actions
+- Support more consistent behavior in long-running or high-stakes systems
+- Improve trust in systems operating where reliability and accountability matter
 
-Instead of patching problems after the fact, Synaptik Core bakes in safety and accountability from the start.
+Rather than treating safety, memory, and accountability as separate concerns, Synaptik Core brings them together as part of the system foundation.
+
+### Why It Matters
+As intelligent systems take on more consequential roles, it becomes increasingly important to understand not only what they produce, but how they arrived there. In many settings, correctness alone is not enough. Systems must also preserve context, follow rules, and provide a trace that can be reviewed when decisions matter.
 
 ### Contribution Guidelines
 
-Synaptik Core is currently in the early stages of development. We are not yet accepting public code contributions. However, we are actively seeking collaboration in the following areas:
+Synaptik Core is in active development. We are currently focused on pilot programs, research collaboration, and early institutional partnerships. We are especially interested in working with organizations exploring:
 
-* **Pilot Programs:** Institutions and development teams interested in applying Synaptik Core to real-world AI challenges.
-* **Research Collaboration:** Academic and research organizations exploring system reliability, safety, governance, and long-lived AI behavior.
-* **Feedback:** Insights from AI developers, safety researchers, and systems architects.
-
-If you are interested in collaborating, please contact us at
-[hello@synaptik-core.dev](mailto:janayharris@synaptik-core.dev).
+* Intelligent systems in high-accountability settings
+* Long-lived AI systems that require continuity over time
+* Governed decision-making and auditable system behavior
+* Research on reliability, safety, memory, and system oversight
 
 ### Contact
 
 For investment inquiries, pilot program participation, or research collaboration, please reach out to the founder, Janay Harris, at
 [hello@synaptik-core.dev](mailto:janayharris@synaptik-core.dev).
-
