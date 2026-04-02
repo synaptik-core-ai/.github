@@ -34,5 +34,4 @@ Synaptik Core is in active development. We are currently focused on pilot progra
 
 ### Contact
 
-For investment inquiries, pilot program participation, or research collaboration, please reach out to the founder, Janay Harris, at
-[hello@synaptik-core.dev](mailto:janayharris@synaptik-core.dev).
+For pilot programs, research collaboration, or investment inquiries contact Janay Harris at [hello@synaptik-core.dev](mailto:hello@synaptik-core.dev).
