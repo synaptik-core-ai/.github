@@ -23,4 +23,4 @@ Synaptik Core provides a foundation for organizations exploring:
 
 For research collaborations, pilot programs, or investment inquiries:
 
-**hello@synaptik-core.com*
+**hello@synaptik-core.com**
