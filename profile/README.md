@@ -1,6 +1,6 @@
 # Synaptik Core
 
-**Intelligence That Endures**
+**Authroization before Autonomy**
 
 Most organizations treat continuity as a human problem. Knowledge walks out the door, context gets reconstructed, and projects stall. As intelligent systems become participants in organizational operations, that challenge only grows.
 
